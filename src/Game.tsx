@@ -151,7 +151,7 @@ function Game(props: GameProps) {
             setGuesses([]);
             setTarget(randomTarget(length));
             setWordLength(length);
-            setHint(`${length} letters`);
+            setHint(t("letterCountHint", {count: length}));
             (document.activeElement as HTMLElement)?.blur();
           }}
         ></input>

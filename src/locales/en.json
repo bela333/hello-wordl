@@ -23,5 +23,6 @@
     "givenUp": "The answer was {{answer}}. (Enter to play again)",
     "giveUp": "Give up",
     "seedInfo": "seed {{seed}}, length {{length}}, game {{game}}",
-    "letterCount": "Letters: "
+    "letterCount": "Letters: ",
+    "letterCountHint": "{{count}} letters"
 }
