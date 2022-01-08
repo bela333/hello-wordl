@@ -1,1 +1,27 @@
-{}
+{
+    "about": "Információ",
+    "close": "Bezár",
+    "random": "Random",
+    "today": "Mai",
+    "title": "Helló wordl",
+    "aboutText1": "A <0>Hello Wordl</0> a <3>Wordle</3> játek utánzata, ami minden bizonnyal a <5>Lingo</5> nevezetű TV műsörön alapszik",
+    "aboutText2": "{{count}} lehetőséged van a szót megtippelni.",
+    "aboutText3": "Minden tipp után kapsz egy Színözön-szerű visszajelzést:",
+    "aboutText4": "A <0>W</0> és az <2>O</2> nincsenek benne a szóban.",
+    "aboutText5": "<0>R</0> helyes, tehát a harmadik betű <2>R</2>.",
+    "aboutText6": "A <0>D</0> valahol <2>máshol</2> található meg a szóban.",
+    "aboutText7": "A következő tippünkben rakjuk a <1>D</1>-t máshova:",
+    "aboutText8": "Közel!",
+    "aboutText9": "Megvan!",
+    "report": "Ha próblémát észlelsz, jelentsd be <2>itt</2>, vagy üzend meg Twitteren <4>@bela333-nak</4>.",
+    "madeBy": "Készítette: <1>@chordbug</1>",
+    "translatedBy": "Fordította: <1>@bela333</1>",
+    "defaultHint": "Tippelj egyet!",
+    "invalidWord": "Nincs ilyen szó",
+    "win": "Nyertél! (Új játékhoz nyomd meg az Entert)",
+    "lost": "Vesztettél! A helyes válasz: {{answer}}. (Új játékhoz nyomd meg az Entert)",
+    "givenUp": "A helyes válasz: {{answer}}. (Új játékhoz nyomd meg az Entert)",
+    "giveUp": "Felad",
+    "seedInfo": "seed {{seed}}, hossz {{length}}, játék {{game}}",
+    "letterCount": "Betűk száma: "
+}
