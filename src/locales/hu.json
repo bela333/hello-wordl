@@ -23,5 +23,6 @@
     "givenUp": "A helyes válasz: {{answer}}. (Új játékhoz nyomd meg az Entert)",
     "giveUp": "Felad",
     "seedInfo": "seed {{seed}}, hossz {{length}}, játék {{game}}",
-    "letterCount": "Betűk száma: "
+    "letterCount": "Betűk száma: ",
+    "letterCountHint": "{{count}} betű"
 }
