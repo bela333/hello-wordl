@@ -9,10 +9,14 @@ import { Clue } from "./clue";
 import i18n from "i18next";
 import { initReactI18next, Trans, useTranslation } from "react-i18next";
 import translationEn from "./locales/en.json"
+import translationHu from "./locales/hu.json"
 
 const resources = {
   en:{
     translation: translationEn
+  },
+  hu:{
+    translation: translationHu
   }
 };
 
@@ -20,7 +24,7 @@ i18n
   .use(initReactI18next)
   .init({
     resources,
-    lng: "en",        //TODO: Change to Hungarian
+    lng: "hu",        //TODO: Change to Hungarian
     fallbackLng: "en",
     debug: true,
 
