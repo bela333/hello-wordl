@@ -1,0 +1,29 @@
+{
+    "title": "hello wordl",
+    "about": "About",
+    "close": "Close",
+    "random": "Random",
+    "today": "Today's",
+    "aboutText1":"<0>hello wordl</0> is a remake of the word game <3>Wordle</3>, which I think is based on the TV show <5>Lingo</5>",
+    "aboutText2": "You get {{count}} tries to guess a target word.",
+    "aboutText3": "After each guess, you get Mastermind-style feedback:",
+    "aboutText4": "<0>W</0> and <2>O</2> aren't in the target word at all.",
+    "aboutText5": "<0>R</0> is correct! The third letter is <2>R</2>.",
+    "aboutText6": "<0>D</0> occurs <2>elsewhere</2> in the target word.",
+    "aboutText7": "Let's move the <1>D</1> in our next guess:",
+    "aboutText8": "So Close!",
+    "aboutText9": "Got it!",
+    "report": "Report issues <2>here</2>, or tweet <4>@bela333</4>.",
+    "madeBy": "Made by <1>@chordbug</1>",
+    "translatedBy": "Translated by <1>@bela333</1>",
+
+    "defaultHint": "Make your first guess!",
+    "invalidWord": "Not a valid word",
+    "win": "You won! (Enter to play again)",
+    "lost": "You lost! The answer was {{answer}}. (Enter to play again)",
+    "givenUp": "The answr was {{answer}}. (Enter to play again)",
+    "giveUp": "Give up",
+    "seedInfo": "seed {{seed}}, length {{length}}, game {{game}}",
+
+    "letterCount": "Letters: "
+}

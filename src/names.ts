@@ -1,20 +1,3 @@
-export const names: Set<string> = new Set([
-  "anglo",
-  "bible",
-  "carol",
-  "costa",
-  "dutch",
-  "fossa", // just too hard
-  "harry",
-  "jimmy",
-  "jones",
-  "lewis",
-  "maria",
-  "paris",
-  "pedro",
-  "roger",
-  "sally",
-  "savoy",
-  "texas",
-  "willy",
-]);
+
+//Unused
+export const names: Set<string> = new Set([]);
